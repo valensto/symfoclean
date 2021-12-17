@@ -1,0 +1,9 @@
+get_products:
+    path: /api/v1/products
+    methods: GET
+    controller: App\UserInterface\Controller\ProductController::list
+
+post_products:
+    path: /api/v1/products
+    methods: POST
+    controller: App\UserInterface\Controller\AddProductController::add

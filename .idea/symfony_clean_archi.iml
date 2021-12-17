@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/project/domain/src" isTestSource="false" packagePrefix="Valensto\Project\Domain\" />
+      <sourceFolder url="file://$MODULE_DIR$/project/domain/tests" isTestSource="true" packagePrefix="Valensto\Project\Domain\Test\" />
+      <sourceFolder url="file://$MODULE_DIR$/project/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/project/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/friendsofphp/proxy-manager-lts" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/proxy-manager-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpstan/phpdoc-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpdocumentor/type-resolver" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
